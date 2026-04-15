@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Soy Juan, un estudiante de ingenieria de sistemas de la Universidad Nacional de Colombia, tengo experiencia en proyectos pequeños como en juegos simples, sistemas de administracion y resolucion de problemas simples de logica. Tambien conozco de un buen uso de estructuras de datos para los proyectos y programas que creo.
+Soy Juan, un estudiante de ingenieria de sistemas de la Universidad Nacional de Colombia, tengo experiencia en proyectos pequeños como en juegos simples, sistemas de administracion y resolucion de problemas simples de logica. Tambien tengo conocimiento en estructuras de datos para utilizarlas en los proyectos y programas que creo.
 
 - 😄 Pronouns: El
 - ⚡ Fun fact: Tambien suelo tocar instrumentos en mi tiempo libre y ver peliculas (me encanta Blade Runner)
